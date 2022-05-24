@@ -10,7 +10,7 @@
 
 
 
-![alt text](https://raw.githubusercontent.com/jojihatzz/Chat-Spammer/main/bg.png)
+![alt text](https://raw.githubusercontent.com/jojihatzz/Telegram-Bot-Template/main/bg.png)
 
 
 
